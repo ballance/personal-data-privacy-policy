@@ -59,7 +59,7 @@ The following algorithms are approved.  No others shall be allowed for storage o
 Data related to Chris Ballance shall be retainied only for as long as absolutely necessary and should be purged as soon as reasonably possible.  Specifically the following:
 
   - The Social Security Number for Chris Ballance may not be stored by any entity except the United States Internal Revenue Service, Chris Ballance's banking institutions, and employers who need to report earnings to the IRS.
-  - Date of Birth, Passport number, and Driver's licenese should never be stored except where explicitly permitted by writing by Chris Ballance.
+  - Date of Birth, Passport number, and Driver's licenese should never be stored except where explicitly permitted in writing by Chris Ballance.
   - Credit card and banking info should only be stored when explicitly allowed for recurring billing.
     
 ## Clean desk policy
