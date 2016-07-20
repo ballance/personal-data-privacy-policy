@@ -7,10 +7,9 @@ This document provides the minimum standards for the use of personal data belong
 The purpose of this policy is to provide guidance that limits 
 
 ## Scope
-This policy applies to any usage, transmission, or storage of data belonging to Chris Ballance.
+This policy applies to any usage, transmission, or storage of data belonging to Chris Ballance.  Correspondence may not be retained for longer than 30 days without explicit written permission.
 
 ## Authentication
-
 Minimum password requirements 
   - The [Stanford Password Requirements](https://uit.stanford.edu/service/accounts/passwords/quickguide) have been adopted by Chris Ballance 
   - Muiti-factor authentication is required for all accounts
