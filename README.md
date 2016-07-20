@@ -4,10 +4,16 @@
 This document provides the minimum standards for the use of personal data belonging to Chris Ballance
 
 ## Purpose
-The purpose of this policy is to provide guidance that limits 
+The purpose of this policy is to provide guidance that limits the use of Chris Ballance's data.  These rules are in place to protect the interests of Chris Ballance's privacy. Inappropriate use exposes Chris Ballance to risks including virus attacks, compromise of network systems and services, and legal issues. 
 
 ## Scope
-This policy applies to any usage, transmission, or storage of data belonging to Chris Ballance.  Correspondence may not be retained for longer than 30 days without explicit written permission.
+This policy applies to any usage, transmission, or storage of data belonging to Chris Ballance.  
+
+## Data Retention Policy
+Data may not be retained for longer than 24 hours without explicit written permission from Chris Ballance except as allowed by law
+
+## Logging
+Logging of activities related to Chris Ballance is not permitted except as allow by law.
 
 ## Authentication
 Minimum password requirements 
